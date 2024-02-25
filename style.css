@@ -1,10 +1,10 @@
 body{
     margin: 0;
+    panding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: auto;
-    width: 20px;
+    height: 100%;
     background-color: hsl(0, 100%, 70%);
 
 }
